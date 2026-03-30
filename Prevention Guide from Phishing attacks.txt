@@ -1,0 +1,32 @@
+Prevention Guide – Staying Safe from Phishing Attacks
+
+Overview:
+Phishing attacks can be prevented with awareness and simple precautionary measures. By following basic digital safety practices, students and users can significantly reduce the risk of becoming victims.
+
+Key Safety Practices:
+1. Verify Before You Trust: 
+Always check the sender’s email address and message authenticity. Do not trust messages that create urgency or pressure without verification.
+
+2. Avoid Suspicious Links:  
+Do not click on unknown or shortened links received through emails or messages. Always manually type official website URLs when logging in.
+
+3. Check Website Security:  
+Ensure that websites use “https” and display a secure connection before entering any personal or financial information.
+
+4. Protect Sensitive Information:  
+Never share OTPs, passwords, or bank details with anyone, even if the request appears to come from a trusted source.
+
+5. Use Strong Authentication:  
+Enable two-factor authentication (2FA) for accounts to add an extra layer of security.
+
+6. Stay Updated:  
+Keep your devices, apps, and browsers updated to protect against security vulnerabilities.
+
+7. Be Cautious with Emails and Messages:  
+Avoid downloading attachments or responding to messages from unknown senders.
+
+8. Safe Digital Payment Practices: 
+Never scan QR codes to receive money, and always verify payment requests before approving transactions.
+
+Reporting and Support:
+In case of any suspected cybercrime, users should report the incident immediately on the National Cyber Crime Portal (cybercrime.gov.in) or call the helpline number 1930 for assistance.

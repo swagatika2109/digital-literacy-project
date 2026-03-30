@@ -1,0 +1,24 @@
+Phishing – A Hidden Threat in Everyday Digital Life
+
+Introduction:
+In today’s digital world, phishing has become one of the most common cybercrimes. It involves attackers pretending to be trusted organizations such as banks, companies, or service providers to trick individuals into revealing sensitive information like passwords, OTPs, or financial details.
+
+How the Attack Typically Happens:
+Phishing attacks usually follow a simple but effective process:
+1. The attacker sends a fake email or message that appears legitimate.
+2. The message creates urgency, such as claiming suspicious activity or offering rewards.
+3. The victim is asked to click a link or provide personal details.
+4. The link redirects to a fake website that looks real.
+5. Once the victim enters their information, it is stolen and misused.
+
+Real-Life Example:
+A real phishing incident reported by Indian Express involved a company losing ₹1.95 crore in a “whale phishing” attack. The attacker impersonated a senior executive and sent urgent payment instructions to an employee. Believing the request to be genuine, the employee transferred large amounts of money to fraudulent accounts. This example shows how attackers exploit trust and urgency to carry out scams.
+
+Who is Targeted:
+Phishing attacks often target students, employees, and frequent internet users. Individuals who are less aware of cybersecurity practices are especially vulnerable.
+
+Consequences:
+The consequences include financial loss, identity theft, and misuse of personal data. Victims may also face emotional stress and loss of trust in digital systems.
+
+Conclusion:
+This case highlights the importance of verifying sources, avoiding suspicious links, and staying alert while using digital platforms. Awareness is the first step toward prevention.
