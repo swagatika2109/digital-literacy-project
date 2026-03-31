@@ -14,12 +14,12 @@ This repository contains my Digital Literacy Portfolio created as part of the CS
 ## Task 1: Digital Literacy Infographic
 I created an infographic using Canva to explain the concept of digital literacy. It includes topics like safe internet practices, useful tools for students, and professional online presence.
 
- Folder: `task-1-presentation/`
+ Folder: `task-1-presentation`
 
 ## Task 2: Student Digital Portfolio
 I created and updated my profiles on GitHub, LinkedIn, and Kaggle to build a professional online presence and understand their importance for career growth.
 
-Folder: `task-2-portfolio/`
+Folder: `task-2-portfolio`
 
 ## Task 3: Coding & Collaboration Platforms
 I solved a beginner-level problem on HackerRank and created a Digital Literacy Awareness Quiz using Google Forms.
@@ -28,22 +28,22 @@ I have also created a google form and recorded the response on Digital Literacy 
 
 🔗 Google Form Link: *(https://docs.google.com/forms/d/e/1FAIpQLSdNEJhJADNbaH_G8eaXsq_E_tvChT-VnPIVQ6iMuhBmKQiE0A/viewform?usp=sharing&ouid=113011688695593048919)*  
 
-Folder: `task-3-platforms/`
+Folder: `task-3-platforms`
 
 ## Task 4: Email Etiquette & Social Media Guide
 I drafted two professional emails — one requesting an assignment extension and another applying for an internship. I also created a checklist for responsible social media usage.
 
-Folder: `task-4-email-etiquette/`
+Folder: `task-4-email-etiquette`
 
 ## Task 5: Cybercrime Awareness
 I created a case study on phishing attacks and a prevention checklist to promote safe online practices.
 
-Folder: `task-5-cybercrime/`
+Folder: 'task-4-email-etiquette'
 
 ## Project Report
 The detailed report covering all tasks is available in the report folder.
 
-Folder: `report/`
+Folder: `report`
 
 ## Learning Outcomes
 - Gained understanding of digital literacy concepts  
